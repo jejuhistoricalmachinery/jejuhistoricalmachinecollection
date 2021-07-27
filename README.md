@@ -1,11 +1,11 @@
 # jejuhistoricalmachinecollection
-A collection of historical machines from the Jeju archive. 
-
 
 
 			“Jeju Historical Machines Archive” (Master Copy)
 Documentation By Conor Lehr
+
 Chief Modeler: Volodymyr Komarskyj
+
 Project Lead: Dr. John LaRocco
 
 26 July 2021
