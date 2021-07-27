@@ -1,7 +1,7 @@
 # jejuhistoricalmachinecollection
 
 
-			“Jeju Historical Machines Collection” (Master Copy)
+			“Jeju Historical Machines Collection” (Master Branch)
 Documentation By Conor Lehr
 
 Chief Modeler: Volodymyr Komarskyj
@@ -26,9 +26,9 @@ Dreyse Needle Gun-The Dreyse Needle Gun, which was invented by Johann Nikolaus v
 
 Lorenzoni Rifle-The Lorenzoni Rifle is a breech-loading rifle developed by Michele Lorenzoni, in Florence, in the 1690s. It can be viewed on the GitHub under tree/master/experimentalArch/Italy.
 
-Teppo Rifle-The Teppo Rifle is a snap matchlock rifle that was bought over to Japan by the Portuguese and later improved upon throughout the centuries. It saw extensive use during the Sengoku (Warring States) period, which lasted from 1467 to 1615. It can be viewed on the GitHub under tree/master/experimentalArch/Japan.
+Teppo Rifle-The Teppo Rifle is a snap matchlock arquebus that was bought over to Japan by the Portuguese and later improved upon throughout the centuries. It saw extensive use during the Sengoku (Warring States) period, which lasted from 1467 to 1615. It can be viewed on the GitHub under tree/master/experimentalArch/Japan.
 
-Seonjo Carbine- Developed during the reign of King Seonjo, for use in the Imjin War (1592-1598) against Japan, this matchlock was supposedly able to fire five times before reloading. This reconstruction was presumed to use a superposed load. It can be found on the GitHub under tree/master/experimentalArch/Korea.
+Seonjo Carbine-Developed during the reign of King Seonjo, for use in the Imjin War (1592-1598) against Japan, this matchlock was supposedly able to fire five times before reloading. This reconstruction was presumed to use a superposed load. It can be found on the GitHub under tree/master/experimentalArch/Korea.
 
 Lantaka-A bronze swivel hand cannon, developed and deployed in Malaysia and other Southeast Asian countries, from the 13th to late 19th centuries. It was even still used by remote Moro tribes into the 20th century. It can be found on the GitHub under tree/master/experimentalArch/Malay.
 
