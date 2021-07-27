@@ -1,0 +1,70 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : Colt Navy v11
+Receiving System Product I.D.: 
+File Name                    : Colt Navy v11
+Sending System               : unknown
+Preprocessor Version         : unknown
+File Creation Date           : 20170524.202708
+Model Creation Date          : 
+Units                        : MM
+Model Space Scale            : 1
+Author                       : unknown
+Organization                 : unknown
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              14
+  Highest number of significant digits:                     14
+  Average number of significant digits:                 13.844
+  Maximum distance to origin:                          87.3213
+  Minimum distance to origin:                          82.8094
+  Effective number of significant digits:              12.4236
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+124  Transformation matrix                            5         5
+126  Rational B-spline curve                       1480      1480
+128  Rational B-spline surface                      598       598
+140  Offset surface                                  11        11
+186  Manifold Solid B-rep Object                     25        25
+308  Subfigure definition                            11        11
+314  Color definition                                 4         4
+406  Property                                        28        28
+408  Singular subfigure instance                     11        11
+502  Vertex list                                     25        25
+504  Edge entity                                     25        25
+508  Loop entity                                    705       705
+510  Face entity                                    598       598
+514  Shell entity                                    25        25
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       22
+Surface feature(s)                     127
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Friday, February 09, 2018 22:05:47
+Finish time: Friday, February 09, 2018 22:06:12
+Processing time: 0 days, 00 hours, 00 mins, 25 secs
