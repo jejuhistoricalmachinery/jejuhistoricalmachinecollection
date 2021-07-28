@@ -10,7 +10,7 @@ Project Lead: Dr. John LaRocco
 
 26 July 2021
 
-Summary: By no means comprehensive, the Jeju Historical Machines Archive is a project for mechanical history prevention and citizen science. It includes crossbows, muzzle-loading firearms, and others mechanical launchers. The primary objective of this project is to highlight the range of mechanical launchers from across history and the world, primarily from the greater Asia-Pacific region. The primary categories are: crossbows, experimental archeology (historic muzzle loaders and air guns), and science accelerators (newer mechanical launchers). These models are unsuitable for 3D printing.  
+Summary: Every machine is a story, and here is a library of them. By no means comprehensive, the Jeju Historical Machines Collection is a project for mechanical history preservation and citizen science. It includes crossbows, muzzle-loading firearms, and others mechanical launchers. The primary objective of this project is to highlight the range of mechanical launchers from across history and the world, primarily from the greater Asia-Pacific region. The primary categories are: crossbows, experimental archeology (historic muzzle loaders and air guns), and science accelerators (newer mechanical launchers). These models are unsuitable for 3D printing.  
 
 Crossbows:
 Chinese Repeating Crossbow-The Chinese Repeating Crossbow is dated from the Warring States period. It has been carefully reconstructed. It can be viewed on the GitHub page under tree/master/crossbows/ChineseRepeatingCrossbow.
